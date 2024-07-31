@@ -3791,7 +3791,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/直播转点播[合].js?type=url&params=../json/live2cms.json"
+			"ext": "./drpy_js/直播转点播[合].js?type=url&params=./json/live2cms.json"
 		},
 		{
 			"key": "hipy_js_至臻[盘]",
@@ -3804,17 +3804,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/至臻[盘].js"
 		},
-		{
-			"key": "hipy_js_中华听书网[听]",
-			"name": "中华听书网[听]",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/中华听书网[听].js"
-		},
+		
 		{
 			"key": "hipy_js_种子音乐[听]",
 			"name": "种子音乐[听]",
@@ -3848,39 +3838,9 @@
 			"order_num": 0,
 			"ext": "./drpy_js/追影TV.js"
 		},
-		{
-			"key": "hipy_js_孜然影视",
-			"name": "孜然影视",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/孜然影视.js"
-		},
-		{
-			"key": "hipy_js_子子影视",
-			"name": "子子影视",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/子子影视.js"
-		},
-		{
-			"key": "hipy_js_最新4K",
-			"name": "最新4K",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/最新4K.js"
-		},
+	
+	
+	
 		{
 			"key": "hipy_js_ASMR[听]",
 			"name": "ASMR[听]",
@@ -3925,17 +3885,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/bilfun(自动).js"
 		},
-		{
-			"key": "hipy_js_cally66",
-			"name": "cally66",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/cally66.js"
-		},
+		
 		{
 			"key": "hipy_js_eFuns",
 			"name": "eFuns",
@@ -3958,17 +3908,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/freeok.js"
 		},
-		{
-			"key": "hipy_js_FreeOKLOL",
-			"name": "FreeOKLOL",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/FreeOKLOL.js"
-		},
+	
 		{
 			"key": "hipy_js_GO影视",
 			"name": "GO影视",
@@ -4025,17 +3965,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/iFun.js"
 		},
-		{
-			"key": "hipy_js_iku喵[资]",
-			"name": "iku喵[资]",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/iku喵[资].js"
-		},
+	
 		{
 			"key": "Iktv",
 			"name": "KTV",
@@ -4056,28 +3986,8 @@
 			"order_num": 0,
 			"ext": "./drpy_js/KTV歌厅[听].js"
 		},
-		{
-			"key": "hipy_js_LIBVIO[优]",
-			"name": "LIBVIO[优]",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/LIBVIO[优].js"
-		},
-		{
-			"key": "hipy_js_MuteFun[漫]",
-			"name": "MuteFun[漫]",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/MuteFun[漫].js"
-		},
+
+	
 		{
 			"key": "hipy_js_NT动漫[漫]",
 			"name": "NT动漫[漫]",
@@ -4089,17 +3999,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/NT动漫[漫].js"
 		},
-		{
-			"key": "hipy_js_ok资源[资]",
-			"name": "ok资源[资]",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/ok资源[资].js"
-		},
+	
 		{
 			"key": "hipy_js_OmoFun[漫]",
 			"name": "OmoFun[漫]",
@@ -4140,17 +4040,7 @@
 			},
 			"order_num": 9999
 		},
-		{
-			"key": "hipy_js_Pornhub[密]",
-			"name": "Pornhub[密]",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/Pornhub[密].js"
-		},
+		
 		{
 			"key": "hipy_js_PTT[优]",
 			"name": "PTT[优]",
@@ -4173,17 +4063,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/PTT追剧大师.js"
 		},
-		{
-			"key": "hipy_js_R18撸[密]",
-			"name": "R18撸[密]",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/R18撸[密].js"
-		},
+	
 		{
 			"key": "SambaShare",
 			"name": "Samba分享",
@@ -4197,17 +4077,7 @@
 			"ext": "./json/tokenm.json$$$./json/sambashare.txt",
 			"order_num": 9999
 		},
-		{
-			"key": "hipy_js_script直播[飞]",
-			"name": "script直播[飞]",
-			"type": 3,
-			"api": "./incjs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/script直播[飞].js"
-		},
+	
 		{
 			"key": "hipy_js_TVB云播",
 			"name": "TVB云播",
